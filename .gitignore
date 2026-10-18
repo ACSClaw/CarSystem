@@ -1,0 +1,29 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Editor-based HTTP Client requests
+/httpRequests/
+# Ignored default folder with query files
+/queries/
+# Datasource local storage ignored files
+/dataSources/
+/dataSources.local.xml
+
+/.claude
+/.idea
+.DS_Store
+
+# Dossiers personnels
+/Ressources
+/Cours
+/carplay/docs/*
+
+# Environnement virtuel et caches Python
+.venv/
+__pycache__/
+.pytest_cache/
+
+# Trajets enregistrés : volumineux et personnels (positions GPS). Le README du dossier reste versionné.
+/carplay/data/*
+
+
